@@ -1,7 +1,7 @@
 Contralorito Sticker images
 =========================
 
-![Contralorito](https://github.com/badgercl/contralorito/blob/master/pack1/contra_004.png)
+![Contralorito](https://github.com/badgercl/contralorito/blob/master/pack1/contra1_004.png)
 
 
 Live versions
