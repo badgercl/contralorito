@@ -1,7 +1,7 @@
 Contralorito Sticker images
 =========================
 
-![Contralorito](https://github.com/badgercl/contralorito/blob/master/pack1/contra1_004.png)
+<img src="https://github.com/badgercl/contralorito/raw/master/pack1/contra1_004.png" alt="Contralorito" width="200px">
 
 Contralorito's Unofficial Guide: https://github.com/badgercl/contralorito/wiki
 
