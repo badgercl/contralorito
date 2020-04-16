@@ -1,13 +1,17 @@
-Contralorito Sticker images
-=========================
+# Recursos de los Stickers de Contralorito
 
 <img src="https://github.com/badgercl/contralorito/raw/master/pack1/contra1_004.png" alt="Contralorito" width="200px">
 
-Contralorito's Unofficial Guide: https://github.com/badgercl/contralorito/wiki
+## Sorting rules
+Existen 3 grupos de stickers:
+* Contralorito[1..n]: Stickers de personajes de la contraloria creados por la CGR.
+* Colegas de Contralorito[1..n]: Stickers de invitados de contralorito, incluye otros corporeos presentes en media oficial.
+* Contralorifans[1..n]: Stickets con aportes comunitarios y que no forman parte del Universo Unificado de Contralorito.
 
-Live versions
-------------
-
+## Recursos en vivo
+* Guía no oficial de contralorito: https://github.com/badgercl/contralorito/wiki
 * Contralorito Telegram Sticker Pack 1: https://t.me/addstickers/contralorito
 * Contralorito Telegram Sticker Pack 2: https://t.me/addstickers/contralorito2
 * Contralorito Telegram Sticker Pack 3: https://t.me/addstickers/contralorito3
+* Colegas de Contralorito Telegram Sticker Pack 1: 
+* Contralorifans Telegram Sticker Pack 1: https://t.me/addstickers/contralofans
