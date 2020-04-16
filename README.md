@@ -4,7 +4,7 @@
 Existen 3 grupos de stickers:
 * Contralorito[1..n]: Stickers de Contralorito, Contralorita o familiares aviaros oficiales de la CGR. Si los anteriores aparecen en una multitud, pasan a `Extras de Contralorito`.
 * Extras de Contralorito[1..n]: Stickers de invitados de contralorito, incluye otros corporeos presentes en media oficial.
-* Contralorifans[1..n]: Stickets con aportes comunitarios y que no forman parte del Contralorito Telegram Universe.
+* Contralorifans[1..n]: Stickers con aportes comunitarios y que no forman parte del Contralorito Telegram Universe.
 
 ## Recursos en vivo
 * Guía no oficial de contralorito: https://github.com/badgercl/contralorito/wiki
