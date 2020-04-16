@@ -13,7 +13,7 @@ Existen 3 grupos de stickers:
 * Contralorito Telegram Sticker Pack 1: https://t.me/addstickers/contraloritoV2_1
 * Contralorito Telegram Sticker Pack 2: https://t.me/addstickers/contraloritoV2_2
 * Contralorito Telegram Sticker Pack 3: https://t.me/addstickers/contraloritoV2_3
-* Colegas de Contralorito Telegram Sticker Pack 1: https://t.me/addstickers/contraloextras
+* Contralorito Extras Telegram Sticker Pack 1: https://t.me/addstickers/contraloextras
 * Contralorifans Telegram Sticker Pack 1: https://t.me/addstickers/contralofans
 
 ## Packs Legacy
