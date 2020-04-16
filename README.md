@@ -4,7 +4,7 @@
 
 ## Sorting rules
 Existen 3 grupos de stickers:
-* Contralorito[1..n]: Stickers de personajes de la contraloria creados por la CGR.
+* Contralorito[1..n]: Stickers de Contralorito o Contralorita oficiales de la CGR. Si aparecen en un grupo, pasan a `Colegas de Contralorito`.
 * Colegas de Contralorito[1..n]: Stickers de invitados de contralorito, incluye otros corporeos presentes en media oficial.
 * Contralorifans[1..n]: Stickets con aportes comunitarios y que no forman parte del Universo Unificado de Contralorito.
 
