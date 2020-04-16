@@ -1,7 +1,5 @@
 # Recursos de los Stickers de Contralorito
 
-<img src="https://github.com/badgercl/contralorito/raw/master/pack1/contra1_004.png" alt="Contralorito" width="200px">
-
 ## Sorting rules
 Existen 3 grupos de stickers:
 * Contralorito[1..n]: Stickers de Contralorito, Contralorita o contralo oficiales de la CGR. Si aparecen en un grupo, pasan a `Colegas de Contralorito`.
